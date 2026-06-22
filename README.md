@@ -8,6 +8,10 @@
 2. **AI 处理**：AI 自动读取、整理、写入 `wiki/`
 3. **你在 Obsidian 里看**：浏览、搜索、Graph View 发现关联
 
+## 自动采集
+
+每天 10:37 北京时间，GitHub Actions 自动从 HN、Reddit、Dev.to、掘金、arXiv 抓取热门内容写入 `raw/网页剪藏/`。你开机后 AI 自动消化。
+
 ## 快速入口
 
 - [[wiki/索引|知识库索引]] — 所有笔记的目录
@@ -18,3 +22,5 @@
 ## 当前内容
 
 - **map_web**：校园三维导航系统，5 篇笔记覆盖概览、API、前端、数据库、架构决策
+- **灵感**：Shill Loop 优化工具、Vivo 手机 AI 操控助手、自动知识采集工作流
+- **技术栈**：AI Agent Token 优化、Agent Skill 生态
