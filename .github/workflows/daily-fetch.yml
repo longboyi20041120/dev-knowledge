@@ -1,7 +1,6 @@
 name: 每日知识采集
 
 on:
-  push:                     # TODO: 测试完成后删除
   schedule:
     - cron: '37 2 * * *'  # 北京时间 10:37（避开整点高峰）
   workflow_dispatch:        # 允许手动触发
