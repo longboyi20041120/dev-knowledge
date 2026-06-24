@@ -5,6 +5,9 @@ on:
     - cron: '37 2 * * *'  # 北京时间 10:37（避开整点高峰）
   workflow_dispatch:        # 允许手动触发
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
