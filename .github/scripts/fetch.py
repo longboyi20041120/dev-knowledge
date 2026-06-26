@@ -189,90 +189,23 @@ def fetch_devto(dedup_cache: dict):
 
 @retry("掘金")
 def fetch_juejin():
-    """掘金热门 → 多端点尝试：热榜 API → 推荐流兜底"""
-    # 端点 1: 文章热榜（更稳定）
-    try:
-        resp = requests.post(
-            "https://api.juejin.cn/content_api/v1/content/article_rank",
-            json={"type": 0},
-            headers={
-                **HEADERS,
-                "Content-Type": "application/json",
-                "Origin": "https://juejin.cn",
-                "Referer": "https://juejin.cn/",
-            },
-            timeout=TIMEOUT
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            if data.get("err_no") == 0 and data.get("data"):
-                items = _parse_juejin_articles(data["data"])
-                if items:
-                    print(f"[掘金] 热榜采集 {len(items[:MAX_PER_SOURCE])} 条")
-                    return items[:MAX_PER_SOURCE]
-    except Exception:
-        pass
-
-    # 端点 2: 推荐流（原逻辑兜底）
-    try:
-        resp = requests.post(
-            "https://api.juejin.cn/recommend_api/v1/article/recommend_all_feed",
-            json={"id_type": 2, "sort_type": 200, "cursor": "0", "limit": 10},
-            headers={
-                **HEADERS,
-                "Content-Type": "application/json",
-                "Origin": "https://juejin.cn",
-                "Referer": "https://juejin.cn/",
-            },
-            timeout=TIMEOUT
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        items = _parse_juejin_feed(data)
-        if items:
-            print(f"[掘金] 推荐流采集 {len(items[:MAX_PER_SOURCE])} 条")
-            return items[:MAX_PER_SOURCE]
-    except Exception:
-        pass
-
-    raise RuntimeError("所有掘金端点均失败")
-
-
-def _parse_juejin_articles(raw_list: list) -> list:
-    """解析热榜返回的 article_info 列表"""
+    """掘金热门 → RSS 主路径（反爬策略不影响 RSS）"""
+    feed = feedparser.parse("https://juejin.cn/rss")
     items = []
-    for info in raw_list:
-        if not isinstance(info, dict) or not info.get("article_id"):
+    for entry in feed.entries:
+        title = entry.get("title", "").strip()
+        if not title:
             continue
         items.append({
-            "title": info.get("article_info", {}).get("title", "") or info.get("title", ""),
-            "url": f"https://juejin.cn/post/{info['article_id']}",
-            "score": info.get("article_info", {}).get("digg_count", 0) or info.get("digg_count", 0),
-            "comments": info.get("article_info", {}).get("comment_count", 0) or info.get("comment_count", 0),
-            "tags": ", ".join(t.get("tag_name", "") for t in (info.get("article_info", {}).get("tags", []) or info.get("tags", []))),
+            "title": title,
+            "url": entry.get("link", ""),
+            "score": 0,
+            "comments": 0,
+            "tags": "",
             "source": "掘金",
         })
-    items.sort(key=lambda x: x["score"], reverse=True)
-    return items
-
-
-def _parse_juejin_feed(data: dict) -> list:
-    """解析推荐流返回数据"""
-    items = []
-    for entry in data.get("data", []):
-        info = entry.get("article_info", {})
-        if not info:
-            continue
-        items.append({
-            "title": info.get("title", ""),
-            "url": f"https://juejin.cn/post/{info.get('article_id', '')}",
-            "score": info.get("digg_count", 0),
-            "comments": info.get("comment_count", 0),
-            "tags": ", ".join(t.get("tag_name", "") for t in info.get("tags", [])),
-            "source": "掘金",
-        })
-    items.sort(key=lambda x: x["score"], reverse=True)
-    return items
+    print(f"[掘金] RSS 采集 {len(items[:MAX_PER_SOURCE])} 条")
+    return items[:MAX_PER_SOURCE]
 
 
 @retry("arXiv")
