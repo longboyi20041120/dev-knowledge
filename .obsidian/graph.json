@@ -2,21 +2,78 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:\"wiki/工作学习/计算机基础\" OR path:\"wiki/工作学习/工程基础\"",
+      "color": {
+        "a": 1,
+        "rgb": 3447003
+      }
+    },
+    {
+      "query": "path:\"wiki/工作学习/编程语言\"",
+      "color": {
+        "a": 1,
+        "rgb": 3060849
+      }
+    },
+    {
+      "query": "path:\"wiki/工作学习/大数据技术\"",
+      "color": {
+        "a": 1,
+        "rgb": 15080994
+      }
+    },
+    {
+      "query": "path:\"wiki/工作学习/数学基础\" OR path:\"wiki/工作学习/数据结构与算法\"",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:\"wiki/工作学习/数据库与SQL\" OR path:\"wiki/工作学习/Python数据栈\" OR path:\"wiki/工作学习/机器学习\" OR path:\"wiki/工作学习/统计学基础\" OR path:\"wiki/工作学习/业务分析\"",
+      "color": {
+        "a": 1,
+        "rgb": 15157308
+      }
+    },
+    {
+      "query": "path:\"wiki/项目\"",
+      "color": {
+        "a": 1,
+        "rgb": 15827983
+      }
+    },
+    {
+      "query": "path:\"wiki/前沿信息\" OR path:\"wiki/灵感\"",
+      "color": {
+        "a": 1,
+        "rgb": 1752220
+      }
+    },
+    {
+      "query": "path:\"raw\"",
+      "color": {
+        "a": 1,
+        "rgb": 9807270
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.49878892733564,
-  "lineSizeMultiplier": 1.49878892733564,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6372987189486498,
+  "nodeSizeMultiplier": 1.21055363321799,
+  "lineSizeMultiplier": 0.80363321799308,
+  "collapse-forces": false,
+  "centerStrength": 0.472318339100346,
+  "repelStrength": 15,
+  "linkStrength": 0.6,
+  "linkDistance": 280,
+  "scale": 0.1737824332085991,
   "close": true
 }
