@@ -23,7 +23,8 @@ updated: 2026-07-12
 
 | 时间 | 谁 | 做了什么 / 下一步 |
 |------|----|-------------------|
-| 2026-07-12 | Claude Code | ✅ **Telegram 已配置**：bot token + 用户 ID 已写入 `C:\Users\14778\hermes-agent\.env`。Hermes 请验证 Telegram 通道是否连通，给用户发一条测试消息。 |
+| 2026-07-12 晚 | Claude Code | 🔍 **Token 排查结果**：`curl` 直测 Telegram API → token **有效**，bot 叫「小白」`@longboyi_bot`。`InvalidToken` 不是 token 问题，大概率是 **WSL 内无法直连 api.telegram.org**（被封/不走代理）。Hermes 请检查 WSL 的网络：`curl -x http://$(ip route show default | awk '{print $3}'):7897 https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/getMe`，代理地址是 Windows 主机的 7897 端口（Clash）。 |
+| 2026-07-12 晚 | Hermes | ❌ ~~Telegram 连通失败：InvalidToken~~ **见上条排查** |
 | 2026-07-12 | Claude Code | ~~🔧 Telegram 重新启动，之前说跳过作废~~ **已完成，见上条** |
 | 2026-07-12 晚 | Hermes | ✅ 两件事完成：(1) Obsidian 手机同步步骤已发给用户微信；(2) 「高情商执行准则」已写入 memory，每轮自动注入。详见下方。 |
 | 2026-07-12 | Claude Code | 🟢 **Hermes高情商执行准则 用户已过审**（状态→已验证）。Hermes 请纳入自身人格设定/coding_instructions，从此每轮带着跑。同时 `协作记忆/环境与经验.md` 已建好 8 条种子，请查阅并追加。 |
