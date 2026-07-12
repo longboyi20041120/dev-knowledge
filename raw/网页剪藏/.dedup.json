@@ -145,20 +145,26 @@
     "https://www.reddit.com/r/programming/comments/1ula04r/optimization_tales_with_cockroachdb_the_slow/",
     "https://zcode.z.ai/en"
   ],
-  "2026-07-11": [
-    "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-    "https://dev.to/dumebii/has-the-audience-for-technical-articles-dropped-5ceh",
-    "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-    "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-    "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+  "2026-07-12": [
+    "https://antjs.org",
+    "https://dev.to/dailycontext/coding-agents-play-favorites-with-your-dependencies-2dl6",
+    "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+    "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-144b",
+    "https://dev.to/francistrdev/its-you-29k0",
+    "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+    "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "https://github.com/Wren6991/RISCBoy",
+    "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "https://juejin.cn/post/7660850473311387711",
+    "https://juejin.cn/post/7661153673080160265",
+    "https://juejin.cn/post/7661165305649954862",
+    "https://juejin.cn/post/7661165305650053166",
+    "https://juejin.cn/post/7661325178647330856",
+    "https://www.iroh.computer/blog/mesh-llm",
     "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-    "https://www.reddit.com/r/programming/comments/1usjlm7/good_tools_are_invisible/",
-    "https://www.reddit.com/r/programming/comments/1usmas0/quantum_computers_are_not_a_threat_to_128bit/",
-    "https://www.reddit.com/r/programming/comments/1ut586o/coordinating_a_web_app_with_an_external_workflow/",
-    "https://www.reddit.com/r/programming/comments/1ut97oi/programs_not_objects_how_i_stopped_designing/"
+    "https://www.reddit.com/r/programming/comments/1ut97oi/programs_not_objects_how_i_stopped_designing/",
+    "https://www.reddit.com/r/programming/comments/1utfiq2/how_container_networking_works_building_a_bridge/",
+    "https://www.reddit.com/r/programming/comments/1uti5tr/selfhosting_umami_analytics_on_cloudflare_fly_and/",
+    "https://www.reddit.com/r/programming/comments/1utqclm/official_jscrambler_npm_package_compromised_at/"
   ]
 }
