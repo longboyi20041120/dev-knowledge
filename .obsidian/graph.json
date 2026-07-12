@@ -4,63 +4,63 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"wiki/工作学习/计算机基础\" OR path:\"wiki/工作学习/工程基础\"",
       "color": {
         "a": 1,
-        "rgb": 3447003
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"wiki/工作学习/编程语言\"",
       "color": {
         "a": 1,
-        "rgb": 3060849
+        "rgb": 9175295
       }
     },
     {
       "query": "path:\"wiki/工作学习/大数据技术\"",
       "color": {
         "a": 1,
-        "rgb": 15080994
+        "rgb": 4456703
       }
     },
     {
       "query": "path:\"wiki/工作学习/数学基础\" OR path:\"wiki/工作学习/数据结构与算法\"",
       "color": {
         "a": 1,
-        "rgb": 10181046
+        "rgb": 11007
       }
     },
     {
       "query": "path:\"wiki/工作学习/数据库与SQL\" OR path:\"wiki/工作学习/Python数据栈\" OR path:\"wiki/工作学习/机器学习\" OR path:\"wiki/工作学习/统计学基础\" OR path:\"wiki/工作学习/业务分析\"",
       "color": {
         "a": 1,
-        "rgb": 15157308
+        "rgb": 65518
       }
     },
     {
       "query": "path:\"wiki/项目\"",
       "color": {
         "a": 1,
-        "rgb": 15827983
+        "rgb": 3669760
       }
     },
     {
       "query": "path:\"wiki/前沿信息\" OR path:\"wiki/灵感\"",
       "color": {
         "a": 1,
-        "rgb": 1752220
+        "rgb": 16514816
       }
     },
     {
       "query": "path:\"raw\"",
       "color": {
         "a": 1,
-        "rgb": 9807270
+        "rgb": 16743168
       }
     }
   ],
@@ -74,6 +74,6 @@
   "repelStrength": 15,
   "linkStrength": 0.6,
   "linkDistance": 280,
-  "scale": 0.3415791122220881,
+  "scale": 0.1107513220596191,
   "close": true
 }
