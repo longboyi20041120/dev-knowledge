@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/r"
   - "#技术/数据分析"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # R 语言基础
 
-R 是统计学家为统计学家设计的语言，在学术界和数据分析领域广泛应用。如果你做数据分析和统计建模，R 和 Python 至少要精通一个。
+> 统计学家写的语言，数据分析/统计岗可能问到。 | **面试重要度：中** | 预计阅读：15 分钟
+
+## 视频资源
+
+- YouTube: [freeCodeCamp: R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) — 完整 R 语言教程
+- B站: [R 语言入门教程](https://www.bilibili.com/video/BV19x411R7vQ/) — 中文 R 语言入门
 
 参考：《R语言程序设计》
 
@@ -528,12 +533,12 @@ mean(v, na.rm = TRUE) # 3（排除 NA）
 
 ## 相关笔记
 
-- [[编程语言/Python基础|Python 基础]] — 数据科学领域的对比与互补
+- [[工作学习/编程语言/Python基础|Python 基础]] — 数据科学领域的对比与互补
 - [[工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战-电商订单分析]] — R 的 dplyr 相当于 Python 的 pandas
 - [[工作学习/Python数据栈/numpy基础|numpy 基础]] — R 的向量化操作对应 NumPy 的广播机制
 - [[工作学习/Python数据栈/matplotlib可视化|matplotlib 可视化]] — R 的 ggplot2 和 Python 的 matplotlib 对比
 - [[工作学习/统计学基础/假设检验与AB测试|假设检验与 AB 测试]] — R 实现 t 检验和方差分析
 - [[工作学习/统计学基础/概率分布基础|概率分布基础]] — R 中的 dnorm/pnorm/qnorm/rnorm
-- [[工作学习/机器学习/线性回归与梯度下降|线性回归与梯度下降]] — R 的 lm() 函数实现
+- [[工作学习/机器学习/线性回归基础|线性回归基础]] — R 的 lm() 函数实现
 - [[工作学习/机器学习/模型评估与调参|模型评估与调参]] — R 中的 caret/tidymodels
 - [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — R 连接数据库（RMySQL/DBI）

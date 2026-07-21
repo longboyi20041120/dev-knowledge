@@ -7,7 +7,7 @@ tags:
   - "#状态/草稿"
 created: 2026-06-26
 updated: 2026-06-26
-status: draft
+status: reviewed
 ---
 
 # AI 基础设施：2026 年芯片竞赛
@@ -45,6 +45,6 @@ IBM 发布了全球首款 sub-1nm 芯片技术。
 
 ## 相关笔记
 
-- [[技术栈/AI-Agent-Token优化|AI Agent Token 优化]]
-- [[技术栈/Agent-Skill生态|Agent Skill 生态]]
+- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势
 - [[灵感/vivo手机AI操控助手|Vivo 手机 AI 操控助手]]

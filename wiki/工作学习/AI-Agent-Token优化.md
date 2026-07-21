@@ -3,14 +3,19 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/ai-agent"
-  - "#状态/草稿"
-  - token优化
+  - "#状态/已验证"
 created: 2026-06-22
-updated: 2026-06-22
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
-# AI Agent Token 优化生态
+# AI Agent Token 优化
+
+> Agent 开发的核心痛点——Token 是钱，也是性能瓶颈。 | **面试重要度：中** | 预计阅读：10 分钟
+
+## 视频资源
+
+- YouTube: [Anthropic: Building Effective Agents](https://www.youtube.com/watch?v=H7YpvMqUJbg) — Anthropic 官方 Agent 构建指南生态
 
 ## 为什么重要
 

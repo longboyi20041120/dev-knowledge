@@ -5,13 +5,18 @@ tags:
   - "#技术/大数据"
   - "#状态/已验证"
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-15
 status: reviewed
 ---
 
 # Elasticsearch 基础
 
-Elasticsearch（ES）是**分布式全文搜索引擎**，专门解决传统数据库（MySQL）**模糊搜索效率低、灵活性差**的问题。后端程序员用它做搜索、日志分析、监控。
+> 分布式全文搜索引擎，倒排索引是核心。面试必问：倒排索引原理、IK 分词、DSL 语法。 | **面试重要度：高** | 预计阅读：15 分钟
+
+## 视频资源
+
+- YouTube: [Elasticsearch from the Bottom Up](https://www.youtube.com/watch?v=PpX7J-G2hBY) — ES 核心原理深入
+- B站: [黑马程序员 Elasticsearch 教程](https://www.bilibili.com/video/BV1Es4y1W7Tn/) — 中文 ES 最全教程
 
 ## 一、ES 是什么，解决什么问题
 

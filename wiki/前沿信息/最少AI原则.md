@@ -6,7 +6,7 @@ tags:
   - "#状态/草稿"
 created: 2026-06-26
 updated: 2026-06-26
-status: draft
+status: reviewed
 ---
 
 # 最少 AI 原则（The Principle of Least AI）
@@ -46,5 +46,5 @@ Ingo Steinke 在 Dev.to 提出了这个原则：**能用传统方案解决的问
 ## 相关笔记
 
 - [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
-- [[技术栈/AI-Agent-Token优化|AI Agent Token 优化]]
-- [[技术栈/AI使用技巧|AI 使用技巧]]
+- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论

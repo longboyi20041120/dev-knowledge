@@ -8,7 +8,7 @@ tags:
   - Android
 created: 2026-06-22
 updated: 2026-06-26
-status: draft
+status: reviewed
 ---
 
 # Vivo 手机 AI 操控助手
@@ -507,3 +507,8 @@ class MainActivity : AppCompatActivity() {
 - [ ] 实现 tap 操作，打通"用户说打开设置→Agent 真的打开了设置"
 - [ ] 加安全机制：每步确认、紧急停止按钮
 - [ ] 验证第一个闭环后，再调研 Gemini Nano 本地化
+
+## 相关笔记
+
+- 原始想法: [[vivo手机AI操控]]
+- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]

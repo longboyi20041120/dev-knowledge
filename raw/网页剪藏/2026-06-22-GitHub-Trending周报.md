@@ -1,3 +1,4 @@
+<!-- filtered: 2026-07-18 -- 内容已融入 Agent-Skill生态、AI代码质量-安全教训、Shill优化工具等笔记 -->
 <!-- processed: 2026-06-26 -->
 # 2026年6月 GitHub Trending 周报
 

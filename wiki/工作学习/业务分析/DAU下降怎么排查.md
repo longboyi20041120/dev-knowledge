@@ -3,15 +3,20 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/数据分析"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-06-26
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # DAU 下降怎么排查
 
-面试经典 case 题：**"某天 DAU 突然掉了 20%，你怎么排查？"**
+> 数据分析面试必考的 case 题，排查框架五步法。 | **面试重要度：极高** | 预计阅读：15 分钟
+
+## 视频资源
+
+- YouTube: [Data Analysis Case Interview](https://www.youtube.com/watch?v=lN_ZwdVv7QE) — 数据分析 case 面试模拟
+- B站: [数据异常排查思路](https://www.bilibili.com/video/BV1Xt4y1e7QS/) — 中文异常排查方法论
 
 面试官考察的是你的**分析框架**，不是答案本身。
 
@@ -389,8 +394,8 @@ ORDER BY dt DESC, new_users DESC;
 
 ## 相关笔记
 
-- [[业务分析/指标体系搭建]]
-- [[业务分析/留存分析实战]]
+- [[工作学习/业务分析/指标体系搭建]]
+- [[工作学习/业务分析/留存分析实战]]
 - [[A-B Test/如何设计实验]]（待写）
 - [[数据工程/数据质量监控]]（待写）
 - [[产品分析/归因分析]]（待写）

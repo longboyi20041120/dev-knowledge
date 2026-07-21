@@ -5,14 +5,18 @@ tags:
   - "#技术/java"
   - "#状态/已验证"
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-15
 status: reviewed
 ---
 
 # Java 学习路线（2026 · 含 AI 模块）
 
-面向 Java 求职的学习路线：**6 大模块**，其中 **AI 模块是今年拉开竞争力的核心突破口**——多数 Java 学习者还没补上。
+> 6 大模块 + AI 模块（Spring AI/RAG/MCP），今年拉开竞争力的突破口。 | **面试重要度：中** | 预计阅读：5 分钟
 
+## 视频资源
+
+- B站: [尚硅谷 Java 学习路线](https://www.bilibili.com/video/BV1Kb411W75N/) — 宋红康 Java 全套路线图
+- B站: [程序员鱼皮 Java 学习路线](https://www.bilibili.com/video/BV1N5411N7GL/) — 2024 最新学习规划
 ## 一、6 大模块全景
 
 | 模块 | 学什么 | 重点/取舍 |

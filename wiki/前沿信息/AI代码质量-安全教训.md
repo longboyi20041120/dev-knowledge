@@ -7,7 +7,7 @@ tags:
   - "#状态/草稿"
 created: 2026-06-26
 updated: 2026-06-26
-status: draft
+status: reviewed
 ---
 
 # AI 生成代码的质量和安全教训
@@ -50,5 +50,5 @@ NVIDIA 发布 Agent Skill 安全扫描工具，结果触目惊心：
 ## 相关笔记
 
 - [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
-- [[技术栈/AI-Agent-Token优化|AI Agent Token 优化]]
-- [[技术栈/Agent-Skill生态|Agent Skill 生态]]
+- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势

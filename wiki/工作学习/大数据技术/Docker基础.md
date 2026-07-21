@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/docker"
   - "#技术/大数据"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Docker 基础
 
-Docker 是一个**容器化平台**，让你能把应用和它的依赖打包成一个镜像，在任何 Linux 机器上运行。核心价值：**一次构建，到处运行**——解决"我机器上能跑，你机器上跑不了"的经典问题。
+> 容器化平台，一次构建到处运行。面试常问：镜像 vs 容器、Dockerfile、Docker Compose。 | **面试重要度：中** | 预计阅读：20 分钟
+
+## 视频资源
+
+- YouTube: [TechWorld with Nana: Docker Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE) — 最好的 Docker 入门教程，Nana 讲得很清楚
+- B站: [尚硅谷 Docker 教程](https://www.bilibili.com/video/BV1Vs411c7pE/) — 中文 Docker 最系统的教程
 
 **一句话理解**：Docker 不是虚拟机，是进程级隔离的轻量级容器。把你的代码 + 依赖 + 系统库全部打包，不管目标机器装了什么，容器里都有自己的环境。
 

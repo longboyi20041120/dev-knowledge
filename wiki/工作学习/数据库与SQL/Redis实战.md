@@ -6,11 +6,18 @@ tags:
   - "#技术/mysql"
   - "#状态/已验证"
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-15
 status: reviewed
 ---
 
 # Redis 实战：三大场景与分布式锁
+
+> 缓存穿透/击穿/雪崩 + 分布式锁 SETNX/看门狗/RedLock——面试最高频。 | **面试重要度：极高** | 预计阅读：15 分钟
+
+## 视频资源
+
+- YouTube: [Hussein Nasser: Redis Internals](https://www.youtube.com/watch?v=4O4JRx7RwSY) — Redis 内部原理深度讲解
+- B站: [尚硅谷 Redis 教程](https://www.bilibili.com/video/BV1Rv41177Af/) — 中文 Redis 最全教程
 
 Redis 在项目里最常落地的三类场景，都是围绕它"**内存快 + 可设过期 + 单命令原子**"的核心特性展开的。这篇讲透三大场景，重点拆分布式锁——Java 后端面试的高频考点。
 

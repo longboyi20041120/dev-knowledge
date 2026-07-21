@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/hbase"
   - "#技术/大数据"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # HBase 基础
 
-HBase 是 Google BigTable 的开源实现，一个**基于 HDFS 的分布式、面向列、稀疏的 NoSQL 数据库**。它的核心价值在于：能在海量数据（几十亿行 x 几百万列）上实现**毫秒级的随机读写**——这是 Hive 做不到的。
+> 基于 HDFS 的分布式列式 NoSQL 数据库，毫秒级随机读写。RowKey 设计是面试重点。 | **面试重要度：中** | 预计阅读：15 分钟
+
+## 视频资源
+
+- YouTube: [HBase Tutorial for Beginners](https://www.youtube.com/watch?v=J6oY1xNqRIA) — HBase 原理最直观的解释
+- B站: [尚硅谷 HBase 教程](https://www.bilibili.com/video/BV1Y4411B7Jy/) — 中文 HBase 入门首选
 
 **一句话理解**：HBase = HDFS 做存储 + 内存做缓存 + LSM 树做写入优化 + RowKey 做索引。适合海量数据的随机读写和实时查询。
 

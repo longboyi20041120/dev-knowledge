@@ -4,11 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/python"
   - "#技术/数据分析"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-06-26
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
+
+# matplotlib 可视化
+
+> 6 种图表 + 面试图表选择指南。 | **面试重要度：中** | 预计阅读：15 分钟
+
+## 视频资源
+
+- YouTube: [Corey Schafer: Matplotlib Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) — 最清晰的 matplotlib 教程
+- B站: [莫烦 Python: Matplotlib 教程](https://www.bilibili.com/video/BV1Jx411L7oD/) — 中文可视化入门
 
 # matplotlib 可视化：数据分析师的图表工具箱
 
@@ -783,5 +792,5 @@ plt.style.use("dark_background")
 
 ## 相关笔记
 
-- [[Python数据栈/numpy基础]]
-- [[Python数据栈/pandas实战-电商订单分析]]
+- [[工作学习/Python数据栈/numpy基础]]
+- [[工作学习/Python数据栈/pandas实战-电商订单分析]]

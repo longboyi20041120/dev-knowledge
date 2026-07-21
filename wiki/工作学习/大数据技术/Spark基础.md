@@ -4,17 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/spark"
   - "#技术/大数据"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Spark 基础
 
-Spark 是 UC Berkeley AMPLab 开源的**基于内存的分布式计算引擎**。核心卖点：比 Hadoop MapReduce 快 10-100 倍，因为中间结果在内存中传递，不需要频繁读写 HDFS。
+> 基于内存的分布式计算引擎，比 MR 快 10-100 倍。面试必问：RDD 五大特性、宽窄依赖、DataFrame vs RDD。 | **面试重要度：高** | 预计阅读：25 分钟
 
-**一句话理解**：Spark = 更快的 MapReduce + SQL + 流处理 + 机器学习 + 图计算，一套引擎打天下。
+## 视频资源
+
+- YouTube: [Databricks: Apache Spark Tutorial](https://www.youtube.com/watch?v=znBa13EarmA) — Databricks 官方教程，Scala + PySpark
+- B站: [尚硅谷 Spark 3.x 教程](https://www.bilibili.com/video/BV11A411L7CK/) — 中文 Spark 教程最全的一套
 
 ## 一、为什么需要 Spark：MapReduce 的痛点
 

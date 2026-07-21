@@ -3,15 +3,20 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/c"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # C语言基础
 
-C 语言是大多数现代语言的"祖先"。学好 C，再学 C++/Java/Python 都能看到它的影子。面试中 C 语言问题集中在**指针**和**内存管理**。
+> 大多数现代语言的"祖先"，面试集中在指针和内存管理。 | **面试重要度：高** | 预计阅读：20 分钟
+
+## 视频资源
+
+- YouTube: [freeCodeCamp: C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0) — 4 小时完整 C 语言教程
+- B站: [郝斌 C 语言教程](https://www.bilibili.com/video/BV1os411h77o/) — 中文 C 语言最经典的入门视频
 
 参考：《C语言项目开发实战入门》《C语言程序设计实验与习题指导（第4版）》
 
@@ -550,5 +555,5 @@ const int * const p3 = &x;    // 两者都是常量
 - [[工作学习/数据结构与算法/数组与双指针|数组与双指针]] — 算法中大量用到指针思想
 - [[工作学习/数据结构与算法/哈希表与查找|哈希表与查找]] — C 语言中可以用结构体+链表实现
 - [[工作学习/工程基础/Git基础与协作|Git 基础与协作]] — 管理 C 语言项目
-- [[编程语言/Java基础|Java 基础]] — Java 没有指针但有引用，对比学习
-- [[编程语言/Python基础|Python 基础]] — Python 底层是 C 写的，CPython 解释器
+- [[工作学习/编程语言/Java基础|Java 基础]] — Java 没有指针但有引用，对比学习
+- [[工作学习/编程语言/Python基础|Python 基础]] — Python 底层是 C 写的，CPython 解释器

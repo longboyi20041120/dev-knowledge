@@ -3,17 +3,21 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/java"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Java 基础
 
-Java 是后端开发的主力语言，国内大厂（阿里、美团、字节后端）广泛使用。面试中 Java 基础问得很深，尤其是**集合框架**和 **JVM**。
+> 国内大厂后端主力语言，面试问得极深，尤其是集合框架和 JVM。 | **面试重要度：极高** | 预计阅读：25 分钟
 
-参考：《Java面向对象程序设计教程（微课视频版）》《Java语言实验与课程设计指导（第三版）》
+## 视频资源
+
+- YouTube: [freeCodeCamp: Java Tutorial for Beginners](https://www.youtube.com/watch?v=A74TOX803D0) — 12 小时完整 Java 教程
+- B站: [尚硅谷 Java 基础教程](https://www.bilibili.com/video/BV1Kb411W75N/) — 宋红康，最适合面试的 Java 教程
+- B站: [黑马程序员 Java 集合框架](https://www.bilibili.com/video/BV1zJ411b7YH/) — 集合框架深度讲解
 
 ## 一、Java 核心特点
 
@@ -514,9 +518,9 @@ public class JVMDemo {
 
 ## 相关笔记
 
-- [[编程语言/C语言基础|C 语言基础]] — Java 与 C 的语法对比
-- [[编程语言/Python基础|Python 基础]] — 面向对象概念对照
-- [[编程语言/Java Web基础|Java Web 基础]] — Servlet、JSP 等后续学习
+- [[工作学习/编程语言/C语言基础|C 语言基础]] — Java 与 C 的语法对比
+- [[工作学习/编程语言/Python基础|Python 基础]] — 面向对象概念对照
+- [[工作学习/编程语言/Java Web基础|Java Web 基础]] — Servlet、JSP 等后续学习
 - [[工作学习/数据结构与算法/哈希表与查找|哈希表与查找]] — HashMap 的算法基础
 - [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — JDBC 连接数据库查询
 - [[工作学习/工程基础/Git基础与协作|Git 基础与协作]] — Java 项目的版本管理

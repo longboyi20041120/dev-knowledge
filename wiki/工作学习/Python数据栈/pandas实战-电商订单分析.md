@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/python"
   - "#技术/数据分析"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-06-26
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # pandas 实战：电商订单分析
 
-用一份真实结构的电商订单数据，从读入到分析报告。
+> 用 5000 条真实结构电商订单数据，从读入到分析报告。面试问"pandas 熟吗"就用这篇回答。 | **面试重要度：高** | 预计阅读：20 分钟
+
+## 视频资源
+
+- YouTube: [Data School: pandas Q&A](https://www.youtube.com/@dataschool) — Kevin Markham，pandas 教学最系统
+- B站: [黑马程序员 pandas 教程](https://www.bilibili.com/video/BV1Rx4y1G7zN/) — 中文 pandas 入门
 
 ## 数据模拟
 
@@ -686,6 +691,6 @@ merged = df.merge(user_info, on="user_id", how="left")
 
 ## 相关笔记
 
-- [[Python数据栈/numpy基础]]
-- [[Python数据栈/matplotlib可视化]]
-- [[数据库与SQL/窗口函数实战]]（待写）
+- [[工作学习/Python数据栈/numpy基础]]
+- [[工作学习/Python数据栈/matplotlib可视化]]
+- [[工作学习/数据库与SQL/窗口函数实战]]（待写）

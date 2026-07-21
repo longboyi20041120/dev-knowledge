@@ -7,7 +7,7 @@ tags:
   - "#状态/草稿"
 created: 2026-06-26
 updated: 2026-07-03
-status: draft
+status: reviewed
 ---
 
 # SQL 查询优化
@@ -642,5 +642,5 @@ LIMIT 20;
 
 ## 相关笔记
 
-- [[数据库与SQL/窗口函数实战]]
-- [[数据库与SQL/常见业务SQL场景]]
+- [[工作学习/数据库与SQL/窗口函数实战]]
+- [[工作学习/数据库与SQL/常见业务SQL场景]]

@@ -5,13 +5,18 @@ tags:
   - "#技术/ai"
   - "#状态/已验证"
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-15
 status: reviewed
 ---
 
 # AI 底层原理（小白入门版）
 
-> 核心原则：**如果不打算亲自敲代码造模型，可以直接不看实现细节。** 但理解核心思想有助于用好 AI。
+> 核心原则：如果不打算亲自敲代码造模型，可以直接不看实现细节。但理解核心思想有助于用好 AI。 | **面试重要度：中** | 预计阅读：10 分钟
+
+## 视频资源
+
+- YouTube: [3Blue1Brown: But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) — 神经网络最著名的入门视频
+- YouTube: [3Blue1Brown: Transformers explained](https://www.youtube.com/watch?v=wjZofJX0v4M) — Transformer 和 Attention 可视化
 
 ## 学习范式的本质
 
@@ -77,5 +82,5 @@ status: reviewed
 
 ## 相关笔记
 
-- [[技术栈/AI使用技巧|AI 使用技巧]]
-- [[技术栈/AI-Agent-Token优化|AI Agent Token 优化]]
+- [[工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论与能力边界
+- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制

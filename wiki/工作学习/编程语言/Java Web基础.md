@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/java"
   - "#技术/web"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Java Web 基础
 
-Java Web 是 Java 后端工程师的必修课。虽然现在主流框架是 Spring Boot，但 Servlet/JSP/MVC 这些基础概念是面试中必问的"内功"。
+> HTTP、Servlet、MVC、Cookie/Session、JDBC — 后端面试必问。 | **面试重要度：高** | 预计阅读：20 分钟
+
+## 视频资源
+
+- B站: [黑马程序员 Java Web 教程](https://www.bilibili.com/video/BV1Qf4y1T7Hx/) — Java Web 最全中文教程
+- B站: [尚硅谷 Servlet 详解](https://www.bilibili.com/video/BV1yJ411c7wq/) — Servlet 和 HTTP 协议精讲
 
 参考：《Java Web程序设计任务教程》
 
@@ -686,8 +691,8 @@ fetch("/api/users")
 
 ## 相关笔记
 
-- [[编程语言/Java基础|Java 基础]] — 先掌握 Java 基础再学 Java Web
+- [[工作学习/编程语言/Java基础|Java 基础]] — 先掌握 Java 基础再学 Java Web
 - [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — JDBC 查询的实际 SQL
 - [[工作学习/工程基础/Git基础与协作|Git 基础与协作]] — 管理 Java Web 项目
-- [[编程语言/Python基础|Python 基础]] — Python 也有类似 Web 框架（Flask/Django）
-- [[编程语言/C语言基础|C 语言基础]] — HTTP 协议底层通过 socket 传输
+- [[工作学习/编程语言/Python基础|Python 基础]] — Python 也有类似 Web 框架（Flask/Django）
+- [[工作学习/编程语言/C语言基础|C 语言基础]] — HTTP 协议底层通过 socket 传输

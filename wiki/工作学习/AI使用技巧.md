@@ -5,11 +5,18 @@ tags:
   - "#技术/ai"
   - "#状态/已验证"
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-15
 status: reviewed
 ---
 
 # AI 使用技巧
+
+> 用好 AI 的核心不是背提示词，而是理解它的能力边界。 | **面试重要度：中** | 预计阅读：10 分钟
+
+## 视频资源
+
+- YouTube: [Andrej Karpathy: How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) — ChatGPT 核心开发者分享如何用好 LLM
+- B站: [AI 提示词工程实战](https://www.bilibili.com/video/BV1sM4y1y7t7/) — 中文提示词技巧
 
 ## 提问方法论
 
@@ -77,5 +84,6 @@ status: reviewed
 
 ## 相关笔记
 
-- [[技术栈/AI-Agent-Token优化|AI Agent Token 优化]]
-- [[技术栈/AI底层原理|AI 底层原理]]
+- 原始想法: [[AI使用技巧与原理总结]]
+- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]]
+- [[工作学习/AI底层原理|AI 底层原理]]

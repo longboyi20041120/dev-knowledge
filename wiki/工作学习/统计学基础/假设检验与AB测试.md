@@ -4,15 +4,21 @@ tags:
   - "#类型/技术"
   - "#技术/统计学"
   - "#技术/数据分析"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-06-26
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # 假设检验与 AB 测试
 
-数据分析师面试必问。面试官不一定让你算 p 值，但一定会问**"怎么设计一个 AB 测试"**。
+> p 值理解、t 检验、AB 测试完整流程 + 样本量计算——数据分析师面试必问。 | **面试重要度：极高** | 预计阅读：25 分钟
+
+## 视频资源
+
+- YouTube: [StatQuest: Hypothesis Testing](https://www.youtube.com/watch?v=0oc49DyA3hU) — 假设检验最直观的解释
+- YouTube: [Khan Academy: Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample) — 可汗学院统计检验
+- B站: [StatQuest 假设检验中文版](https://www.bilibili.com/video/BV1NE411j7Nc/) — 中文搬运
 
 ---
 
@@ -831,7 +837,7 @@ compare_tests("偏态数据（均值有微小差异）",
 
 ## 相关笔记
 
-- [[统计学基础/概率分布基础]] — 正态分布、CLT、分布拟合、Q-Q 图
-- [[机器学习/模型评估与调参]] — 交叉验证、偏差方差权衡、超参数搜索
-- [[统计学基础/描述性统计与可视化]] — 均值/中位数/方差、箱线图、EDA 流程
-- [[机器学习/AB测试平台搭建]] — 实验平台架构、分流引擎设计
+- [[工作学习/统计学基础/概率分布基础]] — 正态分布、CLT、分布拟合、Q-Q 图
+- [[工作学习/机器学习/模型评估与调参]] — 交叉验证、偏差方差权衡、超参数搜索
+- [[工作学习/统计学基础/描述性统计与可视化]] — 均值/中位数/方差、箱线图、EDA 流程
+- [[工作学习/机器学习/AB测试平台搭建]] — 实验平台架构、分流引擎设计

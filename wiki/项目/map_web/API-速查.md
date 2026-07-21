@@ -5,7 +5,7 @@ tags:
   - "#项目/map_web"
 created: 2026-06-22
 updated: 2026-06-22
-status: draft
+status: reviewed
 ---
 
 # API 速查 — map_web

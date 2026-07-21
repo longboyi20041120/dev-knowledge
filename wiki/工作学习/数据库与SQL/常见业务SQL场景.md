@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/sql"
   - "#技术/数据分析"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-06-26
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # 常见业务 SQL 场景
 
-面试中除了考语法，还爱给你一个业务场景让你当场写 SQL。这里覆盖最高频的几个场景，每个场景附带 EXPLAIN 分析和优化思路。
+> 留存率、复购率、RFM 分层、漏斗分析、连续登录——场景 SQL 一网打尽。 | **面试重要度：极高** | 预计阅读：20 分钟
+
+## 视频资源
+
+- YouTube: [TechTFQ: Real SQL Interview Questions](https://www.youtube.com/@techTFQ) — 真实 SQL 面试题精讲
+- B站: [牛客网 SQL 实战](https://www.bilibili.com/video/BV1ZM4y1u7uF/) — 中文 SQL 面试真题
 
 ## 数据准备
 
@@ -599,6 +604,6 @@ ORDER BY m.ym;
 
 ## 相关笔记
 
-- [[数据库与SQL/窗口函数实战]]
-- [[数据库与SQL/SQL查询优化]]
-- [[业务分析/留存分析实战]]
+- [[工作学习/数据库与SQL/窗口函数实战]]
+- [[工作学习/数据库与SQL/SQL查询优化]]
+- [[工作学习/业务分析/留存分析实战]]

@@ -3,15 +3,20 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/git"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-06-26
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Git 基础与协作
 
-简历上写"会用 Git"是基本要求。面试不会专门考 Git，但入职第一天就要用。
+> 日常命令、冲突解决、回滚操作、入职工作流。面试不专门考但入职必用。 | **面试重要度：中** | 预计阅读：20 分钟
+
+## 视频资源
+
+- YouTube: [freeCodeCamp: Git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk) — 最好的 Git 教程
+- B站: [尚硅谷 Git 教程](https://www.bilibili.com/video/BV1FE411P7B3/) — 中文 Git 入门首选
 
 ---
 
@@ -794,7 +799,7 @@ cat .git/refs/tags/v2.0
 
 ## 相关笔记
 
-- [[工程基础/Linux基础命令]] — Shell 常用命令、管道与重定向、权限管理
-- [[工程基础/Docker与容器化]] — Dockerfile 编写、docker-compose 多容器编排
-- [[工程基础/CI_CD流水线]] — GitHub Actions、自动化测试与部署流程
+- [[工作学习/工程基础/Linux基础命令]] — Shell 常用命令、管道与重定向、权限管理
+- [[工作学习/工程基础/Docker与容器化]] — Dockerfile 编写、docker-compose 多容器编排
+- [[工作学习/工程基础/CI_CD流水线]] — GitHub Actions、自动化测试与部署流程
 - [[工作学习/编程语言/Python工程化]] — Python 项目结构、虚拟环境、包管理

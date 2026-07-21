@@ -8,7 +8,7 @@ tags:
   - 工具开发
 created: 2026-06-22
 updated: 2026-06-26
-status: draft
+status: reviewed
 ---
 
 # Shill — AI Agent Loop 优化工具
@@ -369,6 +369,7 @@ Round 1 | Budget: $0.19/$50
 === Summary ===
 Budget: $0.26 used / $50 cap
 All tasks completed.
+```
 
 ## 实战教训
 
@@ -416,5 +417,6 @@ Phase 2: Round 1 — 4.2s, Wrote README.md (303 chars), $0.004
 
 ## 相关笔记
 
+- 原始想法: [[shill-loop优化]]
 - [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]]
 - [[前沿信息/Agent-Skill生态|Agent Skill 生态]]

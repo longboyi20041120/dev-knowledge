@@ -4,15 +4,20 @@ tags:
   - "#类型/技术"
   - "#技术/mysql"
   - "#技术/sql"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-03
-updated: 2026-07-03
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # MySQL 基础入门
 
-MySQL 是面试和工作中最常接触的关系型数据库。本文从零开始，覆盖 DDL、DML、DQL、JOIN、索引、事务，附带电商实战和面试高频考点。
+> DDL/DML/DQL、JOIN 七种、索引 B+ 树、事务 ACID——面试必问。 | **面试重要度：极高** | 预计阅读：30 分钟
+
+## 视频资源
+
+- YouTube: [freeCodeCamp: MySQL Database Full Course](https://www.youtube.com/watch?v=HXV3zeQKqGY) — 完整 MySQL 教程
+- B站: [尚硅谷 MySQL 基础教程](https://www.bilibili.com/video/BV12b411K7Zu/) — 李玉婷，中文 MySQL 最推荐
 
 ---
 

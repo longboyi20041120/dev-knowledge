@@ -3,16 +3,20 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/linux"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Linux 基础
 
-> 参考教材：《Linux操作系统基础项目教程（CentOS 7）》。Linux 不是你选不选的问题——后端开发、数据分析、AI 训练，全是 Linux 环境。面试不专门考 Linux，但不会 Linux 你连开发机都连不上。
+> 后端开发、数据分析、AI 训练全是 Linux 环境。面试不专门考，但不会你连开发机都连不上。 | **面试重要度：中** | 预计阅读：20 分钟
 
+## 视频资源
+
+- YouTube: [freeCodeCamp: Linux Command Line](https://www.youtube.com/watch?v=ZtqBQ68cfJc) — 最好的 Linux 命令行教程
+- B站: [尚硅谷 Linux 教程（韩顺平）](https://www.bilibili.com/video/BV1dW411X7DP/) — 中文最推荐的 Linux 入门
 ## 一、认识 Linux
 
 ### Linux 发行版选哪个？

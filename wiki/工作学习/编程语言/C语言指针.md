@@ -6,7 +6,7 @@ tags:
   - "#状态/草稿"
 created: 2026-07-07
 updated: 2026-07-07
-status: draft
+status: reviewed
 ---
 
 # C 语言指针

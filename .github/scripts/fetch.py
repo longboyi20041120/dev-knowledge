@@ -272,6 +272,58 @@ def build_report(sources: dict, status: dict) -> str:
     return "\n".join(lines)
 
 
+# --- 自动整合 ---
+
+def auto_consolidate():
+    """采集完成后自动检查：7 篇日 → 周报，4 篇周报 → 月报"""
+    import subprocess
+    script = Path(__file__).resolve().parent / "consolidate.py"
+
+    # 1) 找最近一次周报之后的日报，>=7 篇就生成新周报
+    weeklies = sorted(RAW_DIR.glob("*-W*-周报.md"))
+    last_weekly_date = "1970-01-01"
+    if weeklies:
+        last_weekly_date = weeklies[-1].stem[:10]  # 2026-W29
+
+    dailies = sorted(RAW_DIR.glob("*-日报.md"))
+    unconsolidated_dailies = [
+        d for d in dailies
+        if d.stem.replace("-日报", "") > last_weekly_date
+    ]
+
+    if len(unconsolidated_dailies) >= 7:
+        start = unconsolidated_dailies[0].stem.replace("-日报", "")
+        end = unconsolidated_dailies[-1].stem.replace("-日报", "")
+        print(f"\n[整合] {len(unconsolidated_dailies)} 篇日报 → 周报 ({start} ~ {end})")
+        subprocess.run(
+            [sys.executable, str(script), start, end],
+            capture_output=False,
+        )
+
+    # 2) 找最近一次月报之后的周报，>=4 篇就生成新月报
+    monthlies = sorted(RAW_DIR.glob("*-月报.md"))
+    last_monthly_date = "1970-01"
+    if monthlies:
+        last_monthly_date = monthlies[-1].stem[:7]  # 2026-07
+
+    weeklies_after = sorted(RAW_DIR.glob("*-W*-周报.md"))
+    unconsolidated_weeklies = [
+        w for w in weeklies_after
+        if w.stem[:10] > last_monthly_date
+    ]
+
+    if len(unconsolidated_weeklies) >= 4:
+        start = unconsolidated_weeklies[0].stem[:10]
+        end = unconsolidated_weeklies[-1].stem[:10]
+        print(f"\n[整合] {len(unconsolidated_weeklies)} 篇周报 → 月报 ({start} ~ {end})")
+        # 月报用第一个周报的月份标签
+        month_label = start[:7]
+        subprocess.run(
+            [sys.executable, str(script), start, end],
+            capture_output=False,
+        )
+
+
 # --- 主流程 ---
 
 def main():
@@ -328,6 +380,12 @@ def main():
         print(f" | 失败: {', '.join(failed)}")
     else:
         print()
+
+    # 自动整合：7 篇日 → 周报，4 篇周报 → 月报
+    try:
+        auto_consolidate()
+    except Exception as e:
+        print(f"[整合] 跳过（{e}）")
 
 
 if __name__ == "__main__":

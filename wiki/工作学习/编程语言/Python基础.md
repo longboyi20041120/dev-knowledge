@@ -3,16 +3,21 @@ tags:
   - "#用途/工作学习"
   - "#类型/技术"
   - "#技术/python"
-  - "#状态/草稿"
+  - "#状态/已验证"
 created: 2026-07-02
-updated: 2026-07-02
-status: draft
+updated: 2026-07-15
+status: reviewed
 ---
 
 # Python 基础
 
-Python 是目前数据科学、后端开发、自动化运维的首选语言。面试中 Python 问题通常分两类：语言特性（装饰器、GIL）和工程能力（爬虫、数据处理）。
+> 数据科学和 AI 方向的首选语言。面试常问：装饰器、GIL、生成器、可变/不可变对象。 | **面试重要度：极高** | 预计阅读：20 分钟
 
+## 视频资源
+
+- YouTube: [Corey Schafer: Python OOP](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) — 最清晰的 Python 教程
+- YouTube: [mCoding: Python's GIL Explained](https://www.youtube.com/watch?v=ph2fP5z6gDE) — GIL 讲得最透彻
+- B站: [黑马程序员 Python 教程](https://www.bilibili.com/video/BV1qW4y1a7fU/) — 中文 Python 入门首选
 参考：《Python 3程序设计》《Python网络爬虫技术（微课视频版）》
 
 ## 一、Python 核心特点
@@ -104,6 +109,19 @@ b = a
 a.append(4)
 print(a)  # [1, 2, 3, 4]
 print(b)  # [1, 2, 3, 4] —— b 也变了！因为 append 修改了原对象
+
+**符号速查**——看到符号就能认类型：
+
+| 符号 | 类型 | 可变？ | 说明 |
+|------|------|--------|------|
+| `[]` | list 列表 | 可变 | 空列表，`[1, 2]` |
+| `()` | tuple 元组 | 不可变 | 空元组，`(1, 2)` |
+| `{}` | dict 字典 | 可变 | 看有没有冒号：`{"a": 1}` 是 dict，`{1, 2}` 是 set |
+| `set()` | set 集合 | 可变 | 空集合必须写 `set()`，`{}` 是空字典 |
+| `"..."` | str 字符串 | 不可变 | |
+| `42` | int | 不可变 | |
+| `3.14` | float | 不可变 | |
+| `True/False` | bool | 不可变 | |
 
 # 默认参数陷阱——经典的面试题
 def bad_append(item, lst=[]):     # 默认参数在函数定义时只创建一次！
@@ -532,6 +550,6 @@ print(datetime.strptime("2026-07-02", "%Y-%m-%d"))  # 字符串解析为时间
 - [[工作学习/Python数据栈/numpy基础|numpy 基础]]
 - [[工作学习/Python数据栈/matplotlib可视化|matplotlib 可视化]]
 - [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — Python 连接数据库查询
-- [[编程语言/C语言基础|C 语言基础]] — Python 底层是 C 写的
-- [[编程语言/Java基础|Java 基础]] — 同是面向对象，对比学习静态类型
-- [[编程语言/R语言基础|R 语言基础]] — 数据科学领域的两大主力语言对比
+- [[工作学习/编程语言/C语言基础|C 语言基础]] — Python 底层是 C 写的
+- [[工作学习/编程语言/Java基础|Java 基础]] — 同是面向对象，对比学习静态类型
+- [[工作学习/编程语言/R语言基础|R 语言基础]] — 数据科学领域的两大主力语言对比
