@@ -546,10 +546,10 @@ print(datetime.strptime("2026-07-02", "%Y-%m-%d"))  # 字符串解析为时间
 
 ## 相关笔记
 
-- [[工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战-电商订单分析]]
-- [[工作学习/Python数据栈/numpy基础|numpy 基础]]
-- [[工作学习/Python数据栈/matplotlib可视化|matplotlib 可视化]]
-- [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — Python 连接数据库查询
-- [[工作学习/编程语言/C语言基础|C 语言基础]] — Python 底层是 C 写的
-- [[工作学习/编程语言/Java基础|Java 基础]] — 同是面向对象，对比学习静态类型
-- [[工作学习/编程语言/R语言基础|R 语言基础]] — 数据科学领域的两大主力语言对比
+- [[wiki/工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战-电商订单分析]]
+- [[wiki/工作学习/Python数据栈/numpy基础|numpy 基础]]
+- [[wiki/工作学习/Python数据栈/matplotlib可视化|matplotlib 可视化]]
+- [[wiki/工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — Python 连接数据库查询
+- [[wiki/工作学习/编程语言/C语言基础|C 语言基础]] — Python 底层是 C 写的
+- [[wiki/工作学习/编程语言/Java基础|Java 基础]] — 同是面向对象，对比学习静态类型
+- [[wiki/工作学习/编程语言/R语言基础|R 语言基础]] — 数据科学领域的两大主力语言对比

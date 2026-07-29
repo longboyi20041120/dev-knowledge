@@ -46,7 +46,7 @@ status: reviewed
 
 ## 关键链接
 
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]]
-- [[前沿信息/AI基础设施-芯片竞赛|AI 基础设施：芯片竞赛]]
-- [[前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]]
-- [[工作学习/AI底层原理|AI 底层原理]]
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]]
+- [[wiki/前沿信息/AI基础设施-芯片竞赛|AI 基础设施：芯片竞赛]]
+- [[wiki/前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]]
+- [[wiki/工作学习/AI底层原理|AI 底层原理]]

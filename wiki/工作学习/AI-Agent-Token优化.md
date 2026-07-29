@@ -54,5 +54,5 @@ AI Agent 循环执行时最大的成本是 Token 消耗。你正在做的 Shill 
 
 ## 相关笔记
 
-- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
-- [[灵感/自动知识采集工作流|自动知识采集工作流]]
+- [[wiki/灵感/shill-loop优化工具|Shill — Loop 优化工具]]
+- [[wiki/灵感/自动知识采集工作流|自动知识采集工作流]]

@@ -482,7 +482,7 @@ HBase 写入快的根本原因是 **LSM 树**（Log-Structured Merge Tree）。
 
 ## 相关笔记
 
-- [[工作学习/大数据技术/Hive基础|Hive 基础]] — Hive 做离线分析，HBase 做实时查询，两者互补
-- [[工作学习/大数据技术/Spark基础|Spark 基础]] — Spark 可以读写 HBase 数据
-- [[工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — MySQL 对比 HBase 的 B+ 树 vs LSM 树
-- [[工作学习/统计学基础/概率分布基础|概率分布基础]] — Hash 散列原理可以联想到均匀分布
+- [[wiki/工作学习/大数据技术/Hive基础|Hive 基础]] — Hive 做离线分析，HBase 做实时查询，两者互补
+- [[wiki/工作学习/大数据技术/Spark基础|Spark 基础]] — Spark 可以读写 HBase 数据
+- [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — MySQL 对比 HBase 的 B+ 树 vs LSM 树
+- [[wiki/工作学习/统计学基础/概率分布基础|概率分布基础]] — Hash 散列原理可以联想到均匀分布

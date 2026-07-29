@@ -39,7 +39,7 @@ NVIDIA 发布 Agent Skill 安全扫描工具，结果触目惊心：
 
 1. **速度快 ≠ 质量高**。AI 可以用几小时产出人类几个月的代码量，但安全检查无法 AI 加速
 2. **Agent Skill 需要安全审计**。Skill 本质上是在给 AI 赋予新能力——赋予能力 = 扩大攻击面
-3. **精准控制 > 放任自动**。[[灵感/shill-loop优化工具|Shill]] 的思路是对的：不是不信任 AI，而是给 AI 加护栏
+3. **精准控制 > 放任自动**。[[wiki/灵感/shill-loop优化工具|Shill]] 的思路是对的：不是不信任 AI，而是给 AI 加护栏
 
 ## 实践建议
 
@@ -49,6 +49,6 @@ NVIDIA 发布 Agent Skill 安全扫描工具，结果触目惊心：
 
 ## 相关笔记
 
-- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势
+- [[wiki/灵感/shill-loop优化工具|Shill — Loop 优化工具]]
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势

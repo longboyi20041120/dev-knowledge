@@ -92,10 +92,10 @@ Phase 7  面试准备
 
 | 技能 | 最低要求 | 你的知识库 |
 |------|---------|-----------|
-| Python | 函数、类、装饰器、async/await、类型注解 | [[工作学习/编程语言/Python基础\|Python 基础]] |
+| Python | 函数、类、装饰器、async/await、类型注解 | [[wiki/工作学习/编程语言/Python基础\|Python 基础]] |
 | HTTP & API | GET/POST、JSON、Bearer Token、SSE 流式 | ⚠️ 缺，需要补 |
 | JSON Schema | 解析、校验、嵌套结构遍历 | Python 基础里有 |
-| Git | clone、branch、commit、PR | [[工作学习/工程基础/Git基础与协作\|Git 基础]] |
+| Git | clone、branch、commit、PR | [[wiki/工作学习/工程基础/Git基础与协作\|Git 基础]] |
 
 ---
 
@@ -147,8 +147,8 @@ Phase 7  面试准备
 
 ### 你的知识库里已有
 
-- [[工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论
-- [[前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Prompt/Skill/Agentic Workflow 关系
+- [[wiki/工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论
+- [[wiki/前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Prompt/Skill/Agentic Workflow 关系
 
 ---
 
@@ -191,8 +191,8 @@ Phase 7  面试准备
 
 ### 关联笔记
 
-- [[前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — RAG vs Agentic RAG 对比
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本与上下文管理
+- [[wiki/前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — RAG vs Agentic RAG 对比
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本与上下文管理
 
 ---
 
@@ -235,8 +235,8 @@ Phase 7  面试准备
 
 ### 关联笔记
 
-- [[前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]] — Skill、子智能体、Hooks
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 正在成为新的 npm 包
+- [[wiki/前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]] — Skill、子智能体、Hooks
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 正在成为新的 npm 包
 
 ---
 
@@ -284,13 +284,13 @@ Phase 7  面试准备
 
 ### 项目三（进阶）：发布开源 Agent Skill（Phase 4+ 做）
 
-- 参考 [[前沿信息/Agent-Skill生态|Agent Skill 生态]] 里的 SKILL.md 格式
+- 参考 [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] 里的 SKILL.md 格式
 - 往 Claude Code 社区发布一个 Skill
 - 简历亮点：有开源贡献，理解 Agent 生态和 MCP 协议
 
 ### 你已经有的
 
-- [[灵感/shill-loop优化工具|Shill]] — 就是一个 Agent 项目（目标→拆解→执行→反思），面试可讲
+- [[wiki/灵感/shill-loop优化工具|Shill]] — 就是一个 Agent 项目（目标→拆解→执行→反思），面试可讲
 
 ---
 
@@ -338,13 +338,13 @@ Phase 7  面试准备
 
 ## 相关笔记
 
-- [[前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Prompt→Skill→Agentic Workflow 演进全景
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势，2026 年爆发
-- [[前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]] — Claude Code 的 Agent 工程实现
-- [[前沿信息/2026年7月AI模型与Agent生态|2026年7月AI模型与Agent生态]] — 最新模型与 Agent 动态
-- [[工作学习/AI底层原理|AI 底层原理]] — 神经网络、Transformer 基础
-- [[工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论与 AI 能力边界
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制实操
-- [[工作学习/书架与学习路线|书架与学习路线]] — 整体知识体系
-- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]] — 你的第一个 Agent 项目
-- [[灵感/钢铁侠星期五AI-现有技术栈实现路径|钢铁侠星期五 AI 实现路径]] — Agent 技术栈全景图
+- [[wiki/前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Prompt→Skill→Agentic Workflow 演进全景
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势，2026 年爆发
+- [[wiki/前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]] — Claude Code 的 Agent 工程实现
+- [[wiki/前沿信息/2026年7月AI模型与Agent生态|2026年7月AI模型与Agent生态]] — 最新模型与 Agent 动态
+- [[wiki/工作学习/AI底层原理|AI 底层原理]] — 神经网络、Transformer 基础
+- [[wiki/工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论与 AI 能力边界
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制实操
+- [[wiki/工作学习/书架与学习路线|书架与学习路线]] — 整体知识体系
+- [[wiki/灵感/shill-loop优化工具|Shill — Loop 优化工具]] — 你的第一个 Agent 项目
+- [[wiki/灵感/钢铁侠星期五AI-现有技术栈实现路径|钢铁侠星期五 AI 实现路径]] — Agent 技术栈全景图

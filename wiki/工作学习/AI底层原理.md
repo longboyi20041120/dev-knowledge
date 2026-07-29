@@ -82,5 +82,5 @@ status: reviewed
 
 ## 相关笔记
 
-- [[工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论与能力边界
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[wiki/工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论与能力边界
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制

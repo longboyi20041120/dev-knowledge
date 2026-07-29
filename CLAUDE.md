@@ -138,26 +138,26 @@ status: draft | reviewed | archived
 索引格式：
 ```markdown
 ## 工作学习
-- [[工作学习/AI底层原理|AI 底层原理]] — 监督/无监督学习、深度学习、Transformer
+- [[wiki/工作学习/AI底层原理|AI 底层原理]] — 监督/无监督学习、深度学习、Transformer
 
 ## 项目
-- [[项目/map_web/项目概览|map_web 项目概览]] — 校园导航系统
+- [[wiki/项目/map_web/项目概览|map_web 项目概览]] — 校园导航系统
 
 ## 前沿信息
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — 2026 Skill 爆发趋势
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — 2026 Skill 爆发趋势
 
 ## 灵感
-- [[灵感/xxx|xxx]] — 简述想法
+- [[wiki/灵感/xxx|xxx]] — 简述想法
 
 ## 踩坑记录
-- [[踩坑记录/xxx|xxx]] — 简述问题和解法
+- [[wiki/踩坑记录/xxx|xxx]] — 简述问题和解法
 ```
 
 **`wiki/最近更新.md`** 记录最近 10 条变更，格式：
 ```markdown
 | 日期 | 笔记 | 操作 |
 |------|------|------|
-| 2026-06-22 | [[工作学习/AI底层原理]] | 新建 |
+| 2026-06-22 | [[wiki/工作学习/AI底层原理]] | 新建 |
 ```
 
 ---

@@ -90,7 +90,7 @@ status: reviewed
 
 ## 相关笔记
 
-- [[前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]] — Skill、子智能体、Hooks 的工程实现
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势
-- [[工作学习/AI底层原理|AI 底层原理]] — 模型层面的基础
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本优化实操
+- [[wiki/前沿信息/Claude-Code进阶体系|Claude Code 进阶体系]] — Skill、子智能体、Hooks 的工程实现
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势
+- [[wiki/工作学习/AI底层原理|AI 底层原理]] — 模型层面的基础
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本优化实操

@@ -57,6 +57,6 @@ status: reviewed
 
 ## 相关笔记
 
-- [[工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — EXPLAIN、索引失效场景详解
-- [[工作学习/数据库与SQL/MySQL基础入门|MySQL 基础入门]] — 事务、索引、锁基础
-- [[工作学习/数据库与SQL/Redis实战|Redis 实战]] — 缓存扛读、分布式锁扛并发
+- [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — EXPLAIN、索引失效场景详解
+- [[wiki/工作学习/数据库与SQL/MySQL基础入门|MySQL 基础入门]] — 事务、索引、锁基础
+- [[wiki/工作学习/数据库与SQL/Redis实战|Redis 实战]] — 缓存扛读、分布式锁扛并发

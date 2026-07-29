@@ -418,5 +418,5 @@ Phase 2: Round 1 — 4.2s, Wrote README.md (303 chars), $0.004
 ## 相关笔记
 
 - 原始想法: [[shill-loop优化]]
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]]
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]]
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]]
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]]

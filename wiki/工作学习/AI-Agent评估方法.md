@@ -50,5 +50,5 @@ updated: 2026-07-21
 
 ## 相关笔记
 
-- [[工作学习/AI-Agent系统性学习路线|AI Agent 系统性学习路线]] — Phase 2 Module 4: Planning & Evaluation
-- [[前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Agent 反思循环
+- [[wiki/工作学习/AI-Agent系统性学习路线|AI Agent 系统性学习路线]] — Phase 2 Module 4: Planning & Evaluation
+- [[wiki/前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Agent 反思循环

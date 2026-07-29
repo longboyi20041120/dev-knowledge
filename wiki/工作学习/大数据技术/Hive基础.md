@@ -660,8 +660,8 @@ WHERE a.user_id = 'hot_key';   -- 倾斜 key 单独处理（用 MapJoin）
 
 ## 相关笔记
 
-- [[工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — 索引、最左前缀、执行计划
-- [[工作学习/数据库与SQL/窗口函数实战|窗口函数实战]] — ROW_NUMBER/RANK/LAG，Hive 也支持
-- [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — 留存率、复购率等业务 SQL，可以移植到 Hive
-- [[工作学习/大数据技术/Spark基础|Spark 基础]] — Spark 与 Hive 的对比和互补
-- [[工作学习/大数据技术/HBase基础|HBase 基础]] — HBase 补位 Hive 的实时查询短板
+- [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — 索引、最左前缀、执行计划
+- [[wiki/工作学习/数据库与SQL/窗口函数实战|窗口函数实战]] — ROW_NUMBER/RANK/LAG，Hive 也支持
+- [[wiki/工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — 留存率、复购率等业务 SQL，可以移植到 Hive
+- [[wiki/工作学习/大数据技术/Spark基础|Spark 基础]] — Spark 与 Hive 的对比和互补
+- [[wiki/工作学习/大数据技术/HBase基础|HBase 基础]] — HBase 补位 Hive 的实时查询短板

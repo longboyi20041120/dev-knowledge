@@ -4,5 +4,6 @@
   "attachmentFolderPath": "附件",
   "showInlineTitle": false,
   "defaultViewMode": "source",
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": false
 }

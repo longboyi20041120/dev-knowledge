@@ -41,10 +41,10 @@ Ingo Steinke 在 Dev.to 提出了这个原则：**能用传统方案解决的问
 
 ## 这条原则对你
 
-你的 Shill 项目（[[灵感/shill-loop优化工具|Shill Loop 优化工具]]）本质上就是在实践最少 AI 原则——用代码控制（预算上限、收敛检测、回滚）包裹 AI 的"意志"，让 AI 只在受控范围内发挥。
+你的 Shill 项目（[[wiki/灵感/shill-loop优化工具|Shill Loop 优化工具]]）本质上就是在实践最少 AI 原则——用代码控制（预算上限、收敛检测、回滚）包裹 AI 的"意志"，让 AI 只在受控范围内发挥。
 
 ## 相关笔记
 
-- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
-- [[工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论
+- [[wiki/灵感/shill-loop优化工具|Shill — Loop 优化工具]]
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[wiki/工作学习/AI使用技巧|AI 使用技巧]] — Prompt 方法论

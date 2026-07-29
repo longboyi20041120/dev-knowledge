@@ -799,7 +799,7 @@ cat .git/refs/tags/v2.0
 
 ## 相关笔记
 
-- [[工作学习/工程基础/Linux基础命令]] — Shell 常用命令、管道与重定向、权限管理
-- [[工作学习/工程基础/Docker与容器化]] — Dockerfile 编写、docker-compose 多容器编排
-- [[工作学习/工程基础/CI_CD流水线]] — GitHub Actions、自动化测试与部署流程
-- [[工作学习/编程语言/Python工程化]] — Python 项目结构、虚拟环境、包管理
+- [[wiki/工作学习/工程基础/Linux基础命令]] — Shell 常用命令、管道与重定向、权限管理
+- [[wiki/工作学习/工程基础/Docker与容器化]] — Dockerfile 编写、docker-compose 多容器编排
+- [[wiki/工作学习/工程基础/CI_CD流水线]] — GitHub Actions、自动化测试与部署流程
+- [[wiki/工作学习/编程语言/Python工程化]] — Python 项目结构、虚拟环境、包管理

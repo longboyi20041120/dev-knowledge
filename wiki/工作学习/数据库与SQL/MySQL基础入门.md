@@ -985,10 +985,10 @@ CREATE INDEX idx_user_created ON orders(user_id, created_at, total_amount);
 
 ## 相关笔记
 
-- [[工作学习/数据库与SQL/窗口函数实战|窗口函数实战]]
-- [[工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]]
-- [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]]
-- [[工作学习/大数据技术/Hive基础|Hive 基础]]
-- [[工作学习/大数据技术/HBase基础|HBase 基础]]
-- [[工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战]]
-- [[工作学习/书架与学习路线|书架与学习路线]]
+- [[wiki/工作学习/数据库与SQL/窗口函数实战|窗口函数实战]]
+- [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]]
+- [[wiki/工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]]
+- [[wiki/工作学习/大数据技术/Hive基础|Hive 基础]]
+- [[wiki/工作学习/大数据技术/HBase基础|HBase 基础]]
+- [[wiki/工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战]]
+- [[wiki/工作学习/书架与学习路线|书架与学习路线]]

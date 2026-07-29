@@ -144,7 +144,7 @@ bug 定位 → bug 修复 → bug 验证 → 报告撰写 → 汇总给主智能
 
 ## 相关笔记
 
-- [[前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Agent 工作流、ReAct、RAG 的底层机制
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 正在成为新的 npm 包
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — 上下文窗口的 Token 压缩方案
-- [[灵感/钢铁侠星期五AI-现有技术栈实现路径|钢铁侠星期五 AI 实现路径]] — 多智能体编排是逼近星期五的关键
+- [[wiki/前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — Agent 工作流、ReAct、RAG 的底层机制
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 正在成为新的 npm 包
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — 上下文窗口的 Token 压缩方案
+- [[wiki/灵感/钢铁侠星期五AI-现有技术栈实现路径|钢铁侠星期五 AI 实现路径]] — 多智能体编排是逼近星期五的关键

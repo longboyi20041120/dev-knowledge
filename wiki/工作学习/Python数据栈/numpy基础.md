@@ -647,5 +647,5 @@ A: NumPy 对不同形状数组做运算时自动扩展维度的机制。规则�
 
 ## 相关笔记
 
-- [[工作学习/Python数据栈/pandas实战-电商订单分析]]
-- [[工作学习/Python数据栈/matplotlib可视化]]
+- [[wiki/工作学习/Python数据栈/pandas实战-电商订单分析]]
+- [[wiki/工作学习/Python数据栈/matplotlib可视化]]

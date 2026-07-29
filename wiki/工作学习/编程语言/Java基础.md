@@ -518,9 +518,9 @@ public class JVMDemo {
 
 ## 相关笔记
 
-- [[工作学习/编程语言/C语言基础|C 语言基础]] — Java 与 C 的语法对比
-- [[工作学习/编程语言/Python基础|Python 基础]] — 面向对象概念对照
-- [[工作学习/编程语言/Java Web基础|Java Web 基础]] — Servlet、JSP 等后续学习
-- [[工作学习/数据结构与算法/哈希表与查找|哈希表与查找]] — HashMap 的算法基础
-- [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — JDBC 连接数据库查询
-- [[工作学习/工程基础/Git基础与协作|Git 基础与协作]] — Java 项目的版本管理
+- [[wiki/工作学习/编程语言/C语言基础|C 语言基础]] — Java 与 C 的语法对比
+- [[wiki/工作学习/编程语言/Python基础|Python 基础]] — 面向对象概念对照
+- [[wiki/工作学习/编程语言/Java Web基础|Java Web 基础]] — Servlet、JSP 等后续学习
+- [[wiki/工作学习/数据结构与算法/哈希表与查找|哈希表与查找]] — HashMap 的算法基础
+- [[wiki/工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — JDBC 连接数据库查询
+- [[wiki/工作学习/工程基础/Git基础与协作|Git 基础与协作]] — Java 项目的版本管理

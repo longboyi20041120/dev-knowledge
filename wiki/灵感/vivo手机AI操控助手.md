@@ -511,4 +511,4 @@ class MainActivity : AppCompatActivity() {
 ## 相关笔记
 
 - 原始想法: [[vivo手机AI操控]]
-- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
+- [[wiki/灵感/shill-loop优化工具|Shill — Loop 优化工具]]

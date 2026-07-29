@@ -59,5 +59,5 @@ Google Chrome 团队的 Addy Osmani 发布的生产级 Agent Skill 库：
 
 ## 相关笔记
 
-- [[灵感/shill-loop优化工具|Shill — Loop 优化工具]]
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本优化实操
+- [[wiki/灵感/shill-loop优化工具|Shill — Loop 优化工具]]
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本优化实操

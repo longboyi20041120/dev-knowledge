@@ -85,5 +85,5 @@ status: reviewed
 ## 相关笔记
 
 - 原始想法: [[AI使用技巧与原理总结]]
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]]
-- [[工作学习/AI底层原理|AI 底层原理]]
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]]
+- [[wiki/工作学习/AI底层原理|AI 底层原理]]

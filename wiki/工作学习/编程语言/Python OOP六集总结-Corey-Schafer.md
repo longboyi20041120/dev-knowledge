@@ -434,6 +434,6 @@ class Foo:
 
 ## 相关笔记
 
-- [[工作学习/编程语言/Python基础|Python 基础]] — 数据类型、装饰器、生成器
-- [[工作学习/机器学习/梯度下降详解]] — gradient descent 里的 `@property` 用法
+- [[wiki/工作学习/编程语言/Python基础|Python 基础]] — 数据类型、装饰器、生成器
+- [[wiki/工作学习/机器学习/梯度下降详解]] — gradient descent 里的 `@property` 用法
 - [[书架与学习路线]] — Python 学习路线全景

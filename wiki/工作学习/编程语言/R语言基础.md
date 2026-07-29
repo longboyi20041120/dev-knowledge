@@ -533,12 +533,12 @@ mean(v, na.rm = TRUE) # 3（排除 NA）
 
 ## 相关笔记
 
-- [[工作学习/编程语言/Python基础|Python 基础]] — 数据科学领域的对比与互补
-- [[工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战-电商订单分析]] — R 的 dplyr 相当于 Python 的 pandas
-- [[工作学习/Python数据栈/numpy基础|numpy 基础]] — R 的向量化操作对应 NumPy 的广播机制
-- [[工作学习/Python数据栈/matplotlib可视化|matplotlib 可视化]] — R 的 ggplot2 和 Python 的 matplotlib 对比
-- [[工作学习/统计学基础/假设检验与AB测试|假设检验与 AB 测试]] — R 实现 t 检验和方差分析
-- [[工作学习/统计学基础/概率分布基础|概率分布基础]] — R 中的 dnorm/pnorm/qnorm/rnorm
-- [[工作学习/机器学习/线性回归基础|线性回归基础]] — R 的 lm() 函数实现
-- [[工作学习/机器学习/模型评估与调参|模型评估与调参]] — R 中的 caret/tidymodels
-- [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — R 连接数据库（RMySQL/DBI）
+- [[wiki/工作学习/编程语言/Python基础|Python 基础]] — 数据科学领域的对比与互补
+- [[wiki/工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战-电商订单分析]] — R 的 dplyr 相当于 Python 的 pandas
+- [[wiki/工作学习/Python数据栈/numpy基础|numpy 基础]] — R 的向量化操作对应 NumPy 的广播机制
+- [[wiki/工作学习/Python数据栈/matplotlib可视化|matplotlib 可视化]] — R 的 ggplot2 和 Python 的 matplotlib 对比
+- [[wiki/工作学习/统计学基础/假设检验与AB测试|假设检验与 AB 测试]] — R 实现 t 检验和方差分析
+- [[wiki/工作学习/统计学基础/概率分布基础|概率分布基础]] — R 中的 dnorm/pnorm/qnorm/rnorm
+- [[wiki/工作学习/机器学习/线性回归基础|线性回归基础]] — R 的 lm() 函数实现
+- [[wiki/工作学习/机器学习/模型评估与调参|模型评估与调参]] — R 中的 caret/tidymodels
+- [[wiki/工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — R 连接数据库（RMySQL/DBI）

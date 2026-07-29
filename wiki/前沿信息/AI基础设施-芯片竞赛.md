@@ -28,7 +28,7 @@ OpenAI 联手 Broadcom 发布了第一款定制 AI 芯片。不再依赖 NVIDIA�
 Modular 是 Chris Lattner 创建的 AI 基础设施公司（Swift 之父），做通用 AI 编译器栈。Qualcomm 收购他们，把 AI 编译优化带进移动芯片。
 
 - 意味着：AI 推理不再只在云端，端侧 AI 将加速
-- 直接关系到手机上的 AI 体验（[[灵感/vivo手机AI操控助手|Vivo AI 助手]] 这种应用场景）
+- 直接关系到手机上的 AI 体验（[[wiki/灵感/vivo手机AI操控助手|Vivo AI 助手]] 这种应用场景）
 
 ### 3. IBM 亚纳米芯片（6/25 发布）
 
@@ -45,6 +45,6 @@ IBM 发布了全球首款 sub-1nm 芯片技术。
 
 ## 相关笔记
 
-- [[工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
-- [[前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势
-- [[灵感/vivo手机AI操控助手|Vivo 手机 AI 操控助手]]
+- [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — Token 成本控制
+- [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 生态趋势
+- [[wiki/灵感/vivo手机AI操控助手|Vivo 手机 AI 操控助手]]

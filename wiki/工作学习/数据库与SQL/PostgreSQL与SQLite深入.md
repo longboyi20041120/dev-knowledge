@@ -42,6 +42,6 @@ Julia Evans 的 [Learning a few things about running SQLite](https://jvns.ca/blo
 
 ## 关键链接
 
-- [[工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]]
-- [[工作学习/数据库与SQL/MySQL基础入门|MySQL 基础入门]]
-- [[工作学习/数据库与SQL/MySQL面试实战盲区|MySQL 面试实战盲区]]
+- [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]]
+- [[wiki/工作学习/数据库与SQL/MySQL基础入门|MySQL 基础入门]]
+- [[wiki/工作学习/数据库与SQL/MySQL面试实战盲区|MySQL 面试实战盲区]]

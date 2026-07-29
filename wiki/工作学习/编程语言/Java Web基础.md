@@ -691,8 +691,8 @@ fetch("/api/users")
 
 ## 相关笔记
 
-- [[工作学习/编程语言/Java基础|Java 基础]] — 先掌握 Java 基础再学 Java Web
-- [[工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — JDBC 查询的实际 SQL
-- [[工作学习/工程基础/Git基础与协作|Git 基础与协作]] — 管理 Java Web 项目
-- [[工作学习/编程语言/Python基础|Python 基础]] — Python 也有类似 Web 框架（Flask/Django）
-- [[工作学习/编程语言/C语言基础|C 语言基础]] — HTTP 协议底层通过 socket 传输
+- [[wiki/工作学习/编程语言/Java基础|Java 基础]] — 先掌握 Java 基础再学 Java Web
+- [[wiki/工作学习/数据库与SQL/常见业务SQL场景|常见业务 SQL 场景]] — JDBC 查询的实际 SQL
+- [[wiki/工作学习/工程基础/Git基础与协作|Git 基础与协作]] — 管理 Java Web 项目
+- [[wiki/工作学习/编程语言/Python基础|Python 基础]] — Python 也有类似 Web 框架（Flask/Django）
+- [[wiki/工作学习/编程语言/C语言基础|C 语言基础]] — HTTP 协议底层通过 socket 传输

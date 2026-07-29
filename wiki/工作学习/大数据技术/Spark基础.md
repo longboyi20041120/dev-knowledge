@@ -551,8 +551,8 @@ spark.sql("""
 
 ## 相关笔记
 
-- [[工作学习/大数据技术/Hive基础|Hive 基础]] — Hive 是 SQL-on-Hadoop，Spark 可以替代 Hive 的计算引擎
-- [[工作学习/大数据技术/HBase基础|HBase 基础]] — Spark 可以读写 HBase
-- [[工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战：电商订单分析]] — pandas 的单机 API 和 Spark DataFrame 概念类似
-- [[工作学习/机器学习/模型评估与调参|模型评估与调参]] — Spark MLlib 可以分布式训练
-- [[工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — Spark SQL 的优化原理参考
+- [[wiki/工作学习/大数据技术/Hive基础|Hive 基础]] — Hive 是 SQL-on-Hadoop，Spark 可以替代 Hive 的计算引擎
+- [[wiki/工作学习/大数据技术/HBase基础|HBase 基础]] — Spark 可以读写 HBase
+- [[wiki/工作学习/Python数据栈/pandas实战-电商订单分析|pandas 实战：电商订单分析]] — pandas 的单机 API 和 Spark DataFrame 概念类似
+- [[wiki/工作学习/机器学习/模型评估与调参|模型评估与调参]] — Spark MLlib 可以分布式训练
+- [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]] — Spark SQL 的优化原理参考

@@ -691,6 +691,6 @@ merged = df.merge(user_info, on="user_id", how="left")
 
 ## 相关笔记
 
-- [[工作学习/Python数据栈/numpy基础]]
-- [[工作学习/Python数据栈/matplotlib可视化]]
-- [[工作学习/数据库与SQL/窗口函数实战]]（待写）
+- [[wiki/工作学习/Python数据栈/numpy基础]]
+- [[wiki/工作学习/Python数据栈/matplotlib可视化]]
+- [[wiki/工作学习/数据库与SQL/窗口函数实战]]（待写）

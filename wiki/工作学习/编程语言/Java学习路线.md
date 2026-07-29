@@ -51,8 +51,8 @@ Java 程序员切入 AI 应用开发的具体方向：
 
 ## 相关笔记
 
-- [[工作学习/编程语言/Java基础|Java 基础]] — JVM、集合、多线程
-- [[工作学习/编程语言/Java Web基础|Java Web 基础]] — Servlet、MVC
-- [[前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — RAG、Function Calling、MCP 的原理
-- [[工作学习/大数据技术/Docker基础|Docker 基础]] — 项目部署
-- [[工作学习/数据结构与算法/数组与双指针|数据结构与算法]] — 大厂必考
+- [[wiki/工作学习/编程语言/Java基础|Java 基础]] — JVM、集合、多线程
+- [[wiki/工作学习/编程语言/Java Web基础|Java Web 基础]] — Servlet、MVC
+- [[wiki/前沿信息/Agentic-AI与RAG|Agentic AI 与 RAG]] — RAG、Function Calling、MCP 的原理
+- [[wiki/工作学习/大数据技术/Docker基础|Docker 基础]] — 项目部署
+- [[wiki/工作学习/数据结构与算法/数组与双指针|数据结构与算法]] — 大厂必考

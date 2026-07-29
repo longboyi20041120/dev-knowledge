@@ -792,5 +792,5 @@ plt.style.use("dark_background")
 
 ## 相关笔记
 
-- [[工作学习/Python数据栈/numpy基础]]
-- [[工作学习/Python数据栈/pandas实战-电商订单分析]]
+- [[wiki/工作学习/Python数据栈/numpy基础]]
+- [[wiki/工作学习/Python数据栈/pandas实战-电商订单分析]]
