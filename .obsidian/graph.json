@@ -62,6 +62,20 @@
         "a": 1,
         "rgb": 16089649
       }
+    },
+    {
+      "query": "path:\"工作\"",
+      "color": {
+        "a": 1,
+        "rgb": 2631860
+      }
+    },
+    {
+      "query": "path:\"Excalidraw\"",
+      "color": {
+        "a": 1,
+        "rgb": 8951296
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +88,6 @@
   "repelStrength": 12,
   "linkStrength": 0.8,
   "linkDistance": 220,
-  "scale": 0.17297903830994144,
+  "scale": 0.47667417756378627,
   "close": true
 }
