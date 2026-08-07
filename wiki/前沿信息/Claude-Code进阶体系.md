@@ -5,7 +5,7 @@ tags:
   - "#技术/ai"
   - "#状态/已验证"
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-08-01
 status: reviewed
 ---
 
@@ -148,3 +148,16 @@ bug 定位 → bug 修复 → bug 验证 → 报告撰写 → 汇总给主智能
 - [[wiki/前沿信息/Agent-Skill生态|Agent Skill 生态]] — Skill 正在成为新的 npm 包
 - [[wiki/工作学习/AI-Agent-Token优化|AI Agent Token 优化]] — 上下文窗口的 Token 压缩方案
 - [[wiki/灵感/钢铁侠星期五AI-现有技术栈实现路径|钢铁侠星期五 AI 实现路径]] — 多智能体编排是逼近星期五的关键
+
+## 九、2026年7月下旬重要更新
+
+### Claude Code 用 Bun（Rust 重写）
+
+2026年7月19日，Simon Willison 报道：**Claude Code 的运行时从 Node.js 换成了 Bun——而 Bun 本身正从 Zig 迁移到 Rust**。性能大幅提升，但引发了一个问题：AI 生成的代码替换底层工具时，安全边界在哪里？Bun 的重写中已发现 unsafe 代码块。
+
+### Claude 5 上下文工程新规
+
+Anthropic 随 Opus 5 发布了上下文工程新指南。核心变化：
+- 不再是"把东西塞进上下文就行"，而是**分层次、分优先级地组织上下文**
+- 强调"上下文预算"概念——把系统提示词、工具定义、示例、记忆当作有限资源管理
+- 与 Harness 的记忆分层理念一致：常驻 vs 按需加载

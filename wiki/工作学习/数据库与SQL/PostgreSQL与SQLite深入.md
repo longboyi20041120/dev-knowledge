@@ -4,7 +4,7 @@ tags:
   - "#类型/技术"
   - "#技术/mysql"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-01
 status: reviewed
 ---
 
@@ -45,3 +45,27 @@ Julia Evans 的 [Learning a few things about running SQLite](https://jvns.ca/blo
 - [[wiki/工作学习/数据库与SQL/SQL查询优化|SQL 查询优化]]
 - [[wiki/工作学习/数据库与SQL/MySQL基础入门|MySQL 基础入门]]
 - [[wiki/工作学习/数据库与SQL/MySQL面试实战盲区|MySQL 面试实战盲区]]
+
+## Postgres 高级特性
+
+### LISTEN/NOTIFY 的扩展性
+
+Postgres 的 `LISTEN/NOTIFY` 机制常被低估。实际测试表明它能**优雅地扩展**到高吞吐场景，可以作为轻量级消息队列使用，避免引入 Redis/Kafka 的运维复杂度。
+
+### PGSimCity：可视化理解 Postgres 内部原理
+
+[PGSimCity](https://nikolays.github.io/PGSimCity/) 是一个交互式可视化工具，用城市类比展示 Postgres 的查询执行过程——解析器、规划器、执行器如何协作。对理解查询优化和执行计划非常有帮助。
+
+### Bottomless Postgres
+
+社区正在探索"无底"Postgres 方案：Neon、pg_mooncake、pg_tier、pg_lake、ColdFront 等项目试图将 Postgres 扩展到能存无限数据，同时保持 SQL 兼容性。核心思路是冷热分离——热数据在本地，冷数据自动卸载到对象存储。
+
+## SQLite 补充
+
+### STRICT 表
+
+SQLite 支持 `STRICT` 模式建表，强制类型检查。长期以来 SQLite 的"灵活类型"（任何列可存任何类型）是常见坑点，`STRICT` 解决了这个问题。
+
+### Rust 风格的版本（Editions）
+
+社区提议 SQLite 采用类似 Rust 的 editions 机制——向后兼容的同时允许 breaking changes。SQLite 以"永不破坏向后兼容"著称，但 20+ 年的设计决策积累难以在不引入 edition 的情况下修复。

@@ -1,0 +1,1 @@
+对于claude code接入本地模型的时候出现版本不兼容，解决办法有换代理；通过更新vllm的版本和写入配置；通过降低claude code的版本到2.1.153并关闭自动更新 setx DISABLE_AUTOUPDATER 1

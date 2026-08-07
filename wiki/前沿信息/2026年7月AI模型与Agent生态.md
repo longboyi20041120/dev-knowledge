@@ -4,7 +4,7 @@ tags:
   - "#类型/技术"
   - "#技术/ai"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-01
 status: reviewed
 ---
 
@@ -21,8 +21,21 @@ status: reviewed
 | **GLM 5.2** | 智谱 | 安全领域基准测试击败 Claude（Semgrep 测试），有对应 Harness 工具 ZCode |
 | **Qwen 3.6 27B** | 阿里 | 本地开发最佳性价比选择，被社区广泛推荐 |
 | **Leanstral 1.5** | Mistral | 数学证明专用模型 |
+| **Kimi K3** | 月之暗面 | 开源旗舰，综合能力对标 Claude Fable，1M 上下文窗口，开发者评价极高 |
+| **Claude Opus 5** | Anthropic | 7月25日发布，编码与推理大幅提升，配套发布 Claude 5 上下文工程新规 |
+| **Gemini 3.6 Flash** | Google | 7月22日同步发布 Flash / Flash-Lite / Flash Cyber 三个变体 |
+| **Bonsai 27B** | PrismML | 27B 参数能在手机上跑的模型，推理效率突破 |
+| **Inkling** | Thinking Machines | 开源权重模型，社区反响热烈（838赞） |
 
-**关键趋势**：模型能力差距在缩小，国产模型（GLM、Qwen）在特定基准上有竞争力。
+**关键趋势**：模型能力差距在缩小，国产模型（GLM、Qwen、Kimi K3）在特定基准上有竞争力；开源权重模型的追赶速度超预期。
+
+### 7月下旬补充
+
+- **GPT-5.6 数学突破**：用 prompt 闭合了凸优化领域 30 年未解问题，陶哲轩验证了反例的正确性（Jacobi 猜想）
+- **GigaToken**：约 1000 倍加速的 tokenization，开源实现
+- **Echo**：用开源模型达到 Fable 级别效果，成本只要 1/3
+- **Gemma 4 26B**：可在 2GB RAM 的 M 系列 Mac 上运行
+- **Kimi Work**：月之暗面推出 AI 工作台产品，Kimi K3 + 百万 token 上下文
 
 ## Agent 工程化成为新焦点
 
