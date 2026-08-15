@@ -145,26 +145,26 @@
     "https://www.reddit.com/r/programming/comments/1ula04r/optimization_tales_with_cockroachdb_the_slow/",
     "https://zcode.z.ai/en"
   ],
-  "2026-08-14": [
+  "2026-08-15": [
     "https://arxiv.org/abs/2608.12320",
     "https://arxiv.org/abs/2608.12321",
     "https://arxiv.org/abs/2608.12322",
     "https://arxiv.org/abs/2608.12323",
     "https://arxiv.org/abs/2608.12324",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "https://deepseek.com/harness/en/",
-    "https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2",
-    "https://dev.to/devteam/general-challenge-updates-moving-forward-5h39",
-    "https://dev.to/francistrdev/i-joined-devto-because-fl0",
-    "https://dev.to/georgekobaidze/backend-engineer-me-ships-a-browser-game-with-one-unintentional-system-requirement-my-monitor-1ojd",
-    "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
-    "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "https://mcfunley.com/choose-boring-technology",
-    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2",
+    "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
+    "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
+    "https://dev.to/ingosteinke/damn-popovers-23n1",
+    "https://dev.to/sylwia-lask/stop-calling-everything-impostor-syndrome-the-myth-of-just-push-harder-1dmm",
+    "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
     "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-    "https://www.reddit.com/r/programming/comments/1vmhj23/hardware_researcher_spins_up_cpu_deoptimization/",
-    "https://www.reddit.com/r/programming/comments/1vn7p6q/beyond_wasi_running_any_rust_application_in_the/",
     "https://www.reddit.com/r/programming/comments/1vn7t7t/a_preview_of_roc_010_by_richard_feldman/",
-    "https://www.reddit.com/r/programming/comments/1vnckbr/stateoftheart_bytecode_interpreters_in_java_by/"
+    "https://www.reddit.com/r/programming/comments/1vo44t4/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/",
+    "https://www.reddit.com/r/programming/comments/1vo8qw5/coding_magic_the_gathering_in_c_part_one_why/",
+    "https://www.reddit.com/r/programming/comments/1vof05i/kernel_context_switch_costs_and_spin_locks_in/"
   ]
 }
