@@ -145,26 +145,21 @@
     "https://www.reddit.com/r/programming/comments/1ula04r/optimization_tales_with_cockroachdb_the_slow/",
     "https://zcode.z.ai/en"
   ],
-  "2026-09-11": [
-    "https://arxiv.org/abs/2609.10542",
-    "https://arxiv.org/abs/2609.10543",
-    "https://arxiv.org/abs/2609.10545",
-    "https://arxiv.org/abs/2609.10546",
-    "https://arxiv.org/abs/2609.10547",
-    "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "https://blog.mlh.com/hey-everyone-im-sanidhya-from-mlh-25an",
-    "https://cognition.com/blog/swe-2",
-    "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
-    "https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9",
-    "https://dev.to/francistrdev/how-long-does-it-take-for-you-to-write-a-devto-article-49m1",
-    "https://dev.to/hemapriya_kanagala/i-built-my-first-aws-agent-workflow-and-the-hardest-part-was-getting-it-to-stop-assuming-things-8fg",
-    "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "https://shopify.engineering/back-to-native",
-    "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+  "2026-09-12": [
+    "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "https://dev.to/devengers/dev-opportunity-radar-16-15k-ai-agent-hackathon-ai-education-fellowship-and-aws-student-rewards-4l2e",
+    "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
+    "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
+    "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
+    "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
+    "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "https://mathandai.org/",
+    "https://www.autom.dev/blog/google-search-goto-links",
     "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-    "https://www.reddit.com/r/programming/comments/1wch6vw/the_physics_of_database_speed_from_300_to_1m/",
-    "https://www.reddit.com/r/programming/comments/1wcm90s/the_lifecycle_of_a_sharded_postgres_query/",
-    "https://www.reddit.com/r/programming/comments/1wd1jt9/how_to_write_an_effective_software_design_document/",
-    "https://www.reddit.com/r/programming/comments/1wd7wmu/shopify_is_moving_from_react_native_back_to_swift/"
+    "https://www.reddit.com/r/programming/comments/1wd7wmu/shopify_is_moving_from_react_native_back_to_swift/",
+    "https://www.reddit.com/r/programming/comments/1wdiygn/gcc_135_released_with_265_bug_fixes/",
+    "https://www.reddit.com/r/programming/comments/1wdwqje/your_compiler_can_undo_your_security_checks/",
+    "https://www.reddit.com/r/programming/comments/1we5g65/why_i_stopped_arguing_with_people/",
+    "https://www.rubyhack.ai/"
   ]
 }
