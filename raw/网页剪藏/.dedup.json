@@ -145,21 +145,26 @@
     "https://www.reddit.com/r/programming/comments/1ula04r/optimization_tales_with_cockroachdb_the_slow/",
     "https://zcode.z.ai/en"
   ],
-  "2026-09-27": [
-    "https://antonz.org/go-concurrency-distilled/",
-    "https://arxiv.org/abs/2609.22978",
-    "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-    "https://dev.to/dj29/5-devto-features-i-wish-existed-3-im-genuinely-relieved-they-dont-3b8n",
-    "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
-    "https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4",
-    "https://dev.to/maame-codes/disappeared-since-march-taking-a-long-break-was-my-best-decision-yet-1n45",
-    "https://github.com/InfinityLoop1308/PipePipe",
-    "https://github.com/reladraw/reladraw",
-    "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-    "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
-    "https://www.reddit.com/r/programming/comments/1wqok1x/optimizing_a_lockfree_ring_buffer/",
-    "https://www.reddit.com/r/programming/comments/1wqv795/the_cloudflare_blog_brought_to_you_by_emdash/",
+  "2026-09-28": [
+    "https://arxiv.org/abs/2110.01834",
+    "https://arxiv.org/abs/2609.30270",
+    "https://arxiv.org/abs/2609.30271",
+    "https://arxiv.org/abs/2609.30272",
+    "https://arxiv.org/abs/2609.30273",
+    "https://arxiv.org/abs/2609.30275",
+    "https://colo.to/nvidia-stock-narrative.html",
+    "https://dev.to/annavi11arrea1/sharing-dev-followers-count-on-github-profile-bj3",
+    "https://dev.to/georgekobaidze/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem-42n",
+    "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
+    "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+    "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+    "https://fireworks.ai/blog/ember-1",
+    "https://sancho.bearblog.dev/google-weird/",
+    "https://www.inkandswitch.com/essay/malleable-software/",
     "https://www.reddit.com/r/programming/comments/1wrc4sh/postgres_at_time_zone_utc_does_not_do_what_you/",
-    "https://www.reddit.com/r/programming/comments/1wrcgfp/removed_by_reddit/"
+    "https://www.reddit.com/r/programming/comments/1wrjyyr/packing_binary_is_fun_actually/",
+    "https://www.reddit.com/r/programming/comments/1wrnyer/dont_couple_your_go_code_to_github/",
+    "https://www.reddit.com/r/programming/comments/1wrv44s/reducing_net_aws_lambda_cold_starts_by_adding/",
+    "https://www.reddit.com/r/programming/comments/1wrwz6a/ownership_by_thorsten_ball_register_spill/"
   ]
 }
