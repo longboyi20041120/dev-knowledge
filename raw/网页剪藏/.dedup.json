@@ -145,26 +145,21 @@
     "https://www.reddit.com/r/programming/comments/1ula04r/optimization_tales_with_cockroachdb_the_slow/",
     "https://zcode.z.ai/en"
   ],
-  "2026-10-29": [
-    "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-    "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
-    "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
-    "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi",
-    "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
-    "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
-    "https://divagr.com/blog/qwenputer",
-    "https://furbo.org/2026/10/28/a-health-update/",
-    "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "https://juejin.cn/post/7701707696731422771",
-    "https://juejin.cn/post/7701751285919629348",
-    "https://juejin.cn/post/7701892332211257344",
-    "https://juejin.cn/post/7701900929897103396",
-    "https://juejin.cn/post/7701922689346306098",
-    "https://nullpt.rs/fingerprinting-bioweapons",
-    "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
-    "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
-    "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
-    "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
-    "https://www.reddit.com/r/programming/comments/1xie1g9/northstar_web_browser_1038/"
+  "2026-10-30": [
+    "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+    "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+    "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
+    "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+    "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink",
+    "https://github.com/SheepSeb/tinyworldformer",
+    "https://labs.ycombinator.com/projects/games/index.html",
+    "https://mistral.ai/news/mistral-large-4-oss/",
+    "https://sidbala.com/h-264-is-magic/",
+    "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
+    "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+    "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
+    "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
+    "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/"
   ]
 }
